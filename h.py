@@ -1,2 +1,1 @@
 print("heloo")
-print("heloo");
